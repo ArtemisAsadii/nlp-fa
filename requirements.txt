@@ -1,0 +1,4 @@
+wikipedia-api
+beautifulsoup4
+selenium
+Scrapy
